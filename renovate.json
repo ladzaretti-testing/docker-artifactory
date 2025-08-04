@@ -3,9 +3,9 @@
     {
       "matchHost": "https://artifactory.datev.de/artifactory/docker-mirror",
       "hostType": "docker",
-      "userName": "theUser",
+      "username": "user",
       "encrypted": {
-        "token": "theToken"
+        "token": "token"
       }
     }
   ]
