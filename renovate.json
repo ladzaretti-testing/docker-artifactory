@@ -1,7 +1,7 @@
 {
   "hostRules": [
     {
-      "matchHost": "https://artifactory.datev.de/artifactory/docker-mirror",
+      "matchHost": "https://artifactory.datev.de/v2",
       "hostType": "docker",
       "username": "user",
       "token": "token"
