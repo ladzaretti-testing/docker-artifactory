@@ -1,1 +1,12 @@
-{}
+{
+  "hostRules": [
+    {
+      "matchHost": "https://artifactory.datev.de/artifactory/docker-mirror",
+      "hostType": "docker",
+      "userName": "theUser",
+      "encrypted": {
+        "token": "theToken"
+      }
+    }
+  ]
+}
